@@ -73,23 +73,39 @@ Customer personality analysis helps a business to modify its product based on it
 Source:- kaggle kernels output cainanguan/customer-response-predict-personality-analysis -p /path/to/dest
 
 # What We Are Doing In This Project ?
+
 --Understanding the problem statement.
+
 -About the dataset.
+
 -Examine the dataset.
 
 1.First of 5 rows.
+
 2.Number of rows and columns.
+
 3.Column name.
+
 4.Basic Statistic on continous features.
+
 5.Finding the missing values and its treatment.
+
 6.Dropping the unwanted features to reduce dimensionality and model complexity.
+
 7.Replacing the values.
+
 8.Rearranging the order of the features.
+
 -Univariate Analysis on Discrete or continous Features.
+
 -Bi-variate Analysis on Discrete or continous Features.
+
 -Feature & Target correlation.
+
 -Scaling the dataset.
+
 -Finding the number of clusters.
+
 -Used K means cluster to visualize the clusters.
 
 # Overall Summary :-
