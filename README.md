@@ -80,33 +80,33 @@ Source:- kaggle kernels output cainanguan/customer-response-predict-personality-
 
 -Examine the dataset.
 
-1.First of 5 rows.
+1. First of 5 rows.
 
-2.Number of rows and columns.
+2. Number of rows and columns.
 
-3.Column name.
+3. Column name.
 
-4.Basic Statistic on continous features.
+4. Basic Statistic on continous features.
 
-5.Finding the missing values and its treatment.
+5. Finding the missing values and its treatment.
 
-6.Dropping the unwanted features to reduce dimensionality and model complexity.
+6. Dropping the unwanted features to reduce dimensionality and model complexity.
 
-7.Replacing the values.
+7. Replacing the values.
 
-8.Rearranging the order of the features.
+8. Rearranging the order of the features.
 
--Univariate Analysis on Discrete or continous Features.
+- Univariate Analysis on Discrete or continous Features.
 
--Bi-variate Analysis on Discrete or continous Features.
+- Bi-variate Analysis on Discrete or continous Features.
 
--Feature & Target correlation.
+- Feature & Target correlation.
 
--Scaling the dataset.
+- Scaling the dataset.
 
--Finding the number of clusters.
+- Finding the number of clusters.
 
--Used K means cluster to visualize the clusters.
+- Used K means cluster to visualize the clusters.
 
 # Overall Summary :-
 . 97.58% of the customers are "Post graduated".
