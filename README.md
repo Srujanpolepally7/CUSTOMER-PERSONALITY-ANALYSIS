@@ -109,38 +109,38 @@ Source:- kaggle kernels output cainanguan/customer-response-predict-personality-
 - Used K means cluster to visualize the clusters.
 
 # Overall Summary :-
-. 97.58% of the customers are "Post graduated".
+- 97.58% of the customers are "Post graduated".
 
-. More than half of the customers are in a relationship - 64.46%.
+- More than half of the customers are in a relationship - 64.46%.
 
-. The lowest Income is 1730.0
+- The lowest Income is 1730.0
 
-. The maximum Income is 666666.0
+- The maximum Income is 666666.0
 
-. The mean of the Income is 52247.25135379059
+- The mean of the Income is 52247.25135379059
 
-. The lowest spending is 5
+- The lowest spending is 5
 
-. The maximum spending is 2525
+- The maximum spending is 2525
 
-. The mean of the spending is 605.7982142857143
+- The mean of the spending is 605.7982142857143
 
-. 79.33% of the customers who accepted the offer in the campaign is 0.
+- 79.33% of the customers who accepted the offer in the campaign is 0.
 
-. The lowest NumTotalPurchases is 0
+- The lowest NumTotalPurchases is 0
 
-. The maximum NumTotalPurchases is 43
+- The maximum NumTotalPurchases is 43
 
-. The mean of the NumTotalPurchases is 11.26752503576538. More than half are 8 years old customers.
+- The mean of the NumTotalPurchases is 11.26752503576538. More than half are 8 years old customers.
 
-. The highest Expenses rate for Post Graduated Customers is 97.58%.
+- The highest Expenses rate for Post Graduated Customers is 97.58%.
 
-. The highest Expenses rate for Customers who are in a Relationship is 64.46%
+- The highest Expenses rate for Customers who are in a Relationship is 64.46%
 
-. The highest Expenses rate for Customers who have one Kid is 50.35%.
+- The highest Expenses rate for Customers who have one Kid is 50.35%.
 
-. The highest Expenses rate for Customers who accepted the offer in the campaign "0" is 79.33%
+- The highest Expenses rate for Customers who accepted the offer in the campaign "0" is 79.33%
 
-. The highest Expenses rate for 8 years old Customers is 53.08%.
+- The highest Expenses rate for 8 years old Customers is 53.08%.
 
-Thank You For Reading.
+# Thank You For Reading.
