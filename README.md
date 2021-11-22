@@ -1,5 +1,12 @@
 # WELCOME TO CUSTOMER PERSONALITY ANALYSIS :-
 # Understanding The Problem Statement :-
+
+
+<h1 style="color:#4cd5e5;font-size:70px;font-family:Georgia;text-align:center;"><strong>WELCOME <strong style="color:#f8de31;font-size:60px;font-family:Georgia;">TO <strong style="color:#4cd5e5;font-size:70px;font-family:Georgia;">CUSTOMER <strong style="color:#f8de31;font-size:60px;font-family:Georgia;">PERSONALITY <strong style="color:#4cd5e5;font-size:70px;font-family:Georgia;">ANALYSIS <strong style="color:#4cd5e5;font-size:60px;font-family:Georgia;">:- </strong></strong></strong></strong></strong></strong></h1>
+
+  
+ ![](https://www.mccourier.com/wp-content/uploads/2021/01/market-research-port-6.gif)
+ 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers.
 
 It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
